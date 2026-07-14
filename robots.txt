@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-h85cq7.yalta-climat.ru/sitemap.xml
